@@ -1,5 +1,9 @@
 ajay kumawat
 pune
 rajastham
+<<<<<<< HEAD
 stash
 one more
+=======
+stash
+>>>>>>> main
